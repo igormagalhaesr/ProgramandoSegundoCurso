@@ -16,6 +16,58 @@ Baixe o anaconda para Windows, Mac ou Linux aqui: www.anaconda.com/distribution/
 
 Vamos começar? (:
 
+<h2>Tabela de Conteúdos</h2>
+
+<ol start=0>
+    <li>Introdução</li>
+    <br />
+    <li>Orientação a Objetos
+        <ol style="list-style-type: lower-alpha;">
+            <li>Classes e Tipos Abstratos de Dados</li>
+            <li>Herança</li>
+            <li>Encapsulamento</li>
+        </ol>
+    </li>
+    <br />
+    <li>Complexidade
+        <ol style="list-style-type: lower-alpha;">
+            <li>Eficiência</li>
+            <li>Notação Assintótica</li>
+            <li>Classes de Complexidade</li>
+        </ol>
+    </li>
+    <br />
+    <li>Algoritmos
+        <ol style="list-style-type: lower-alpha;">
+            <li>Busca Linear e Busca Binária</li>
+            <li>Buscas</li>
+            <li>Ordenação</li>
+        </ol>
+    </li>
+    <br />
+    <li>Estruturas de Dados
+        <ol style="list-style-type: lower-alpha;">
+            <li>Árvores</li>
+            <li>Heaps</li>
+            <li>Hash Tables</li>
+            <li>Grafos</li>
+            <li>Menor caminho e Dijkstra</li>
+        </ol>
+    </li>
+    <br />
+    <li>Dividir e Conquistar</li>
+    <br />
+    <li>Programação Dinâmica
+        <ol style="list-style-type: lower-alpha;">
+            <li>Programação Dinâmica</li>
+            <li>Fibonacci</li>
+            <li>Números Primos</li>
+            <li>Knapsack Problem</li>
+        </ol>
+    <br />
+    <li>Soluções dos Exercícios</li>
+</ol>
+
 <h2>Requisitos</h2>
 <br />
 Sendo esse um segundo livro de uma série, espera-se que o leitor tenha algumas noções de conceitos de programação e da sintaxe de python. A lista é a seguinte:
